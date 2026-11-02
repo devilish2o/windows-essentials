@@ -10,6 +10,7 @@ My curated collection of indispensable Windows applications, configurations and 
 | Tailscale | Secure remote connectivity | [Guide](apps/tailscale.md) |
 | FluentFlyout | Windows media flyouts | [Guide](apps/fluentflyout.md) |
 | WindowTop | Window management | [Guide](apps/windowtop.md) |
+| ADB Wireless Debugging | Android TikTok control from Windows via ADB | [Guide](apps/adb-wireless-debugging.md) |
 | AudioPlaybackConnector64 | Audio device connectivity | [Guide](apps/audioplaybackconnector.md) |
 
 ## Platform
